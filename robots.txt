@@ -1,0 +1,5 @@
+# Robots.txt for kannans roney
+User-agent: *
+Allow: /
+
+Sitemap: https://akhilsivanand5000.github.io/kannans-roney-monsqq3q/sitemap.xml
